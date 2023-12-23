@@ -1,0 +1,40 @@
+{
+  "name": "Lymah123",
+  "bio": "Backend Developer | Data Engineer | Technical Writer | Open Source Enthusiast",
+  "links": [
+    {
+      "group": "Education",
+      "name": "Education: Open Source Contributor",
+      "url": "https://github.com/Lymah123",
+      "icon": "GitHub"
+    },
+    {
+      "group": "Socials Primary",
+      "name": "Twitter/X: Follow me",
+      "url": "https://twitter.com/CodesLymah",
+      "icon": "FaTwitter",
+      "color": "#00ACEE"
+    },
+    {
+      "group": "Socials Primary",
+      "name": "LinkedIn: Follow me",
+      "url": "https://www.linkedin.com/in/harlimat-odunola-2ab261235/",
+      "icon": "FaLinkedIn",
+      "color": "#00ACEE"
+    },
+    {
+      "group": "Blog",
+      "name": "Hashnode: Follow me",
+      "url": "https://leemah.hashnode.dev/",
+      "icon": "FaHasnode",
+      "color": "#00ACEE"
+    },
+    {
+      "group": "Blog",
+      "name": "Dev.to: Follow me",
+      "url": "https://dev.to/lymah",
+      "icon": "FaDev.to",
+      "color": "#00ACEE"
+    }
+  ]
+}
